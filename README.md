@@ -7,7 +7,7 @@
 ### Neden ClipForge?
 
 - Arka planda **sürekli kayıt** alır, hotkey'e basınca son 5-60 saniyeyi anında kaydeder (Medal.tv gibi).
-- Ultra düşük kaynak tüketimi (~15-30 MB RAM).
+- Ultra düşük kaynak tüketimi (~200-300 MB RAM).
 - Otomatik sıkıştırma: Videolar %70-90 daha küçük (H.265).
 - Sistem sesi + mikrofon yüksek kalitede, sıfır kayma.
 - Modern galeri: Thumbnail'ler, yıldızlama (favoriler), basit kırpma.
