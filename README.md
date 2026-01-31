@@ -2,7 +2,7 @@
 
 **ClipForge** – Oyun anlarını kaçırmaman için ultra hafif, akıllı ekran kayıt ve otomatik highlight aracı.
 
-![ClipForge Logo](https://cdn.discordapp.com/attachments/1080496668790755418/1467157176115003424/clipforge.png?ex=697f5c19&is=697e0a99&hm=aafeabfd03064f2d51923363b4926cb68aa12e8da5365d1bd8a6196975f0481b&)  
+![ClipForge Logo](https://cdn.discordapp.com/attachments/1080496668790755418/1467157469083205713/128x128.png?ex=697f5c5f&is=697e0adf&hm=c3e20d24e00d8c2511224c440c6f6567ebd0c7ecedf7616245c6cf78f5aea3d9&)
 
 ### Neden ClipForge?
 
