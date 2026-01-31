@@ -12,7 +12,6 @@
 - Sistem sesi + mikrofon yüksek kalitede, sıfır kayma.
 - Modern galeri: Thumbnail'ler, yıldızlama (favoriler), basit kırpma.
 - Tamamen yerel – hiçbir şey buluta gitmez.
-- Otomatik güncelleme – yeni sürüm gelince kendisi yükler.
 
 ### Kimler İçin?
 
