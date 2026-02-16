@@ -1,6 +1,6 @@
 # ClipForge
 
-**ClipForge** – Oyun anlarını kaçırmaman için ultra hafif, akıllı ekran kayıt ve otomatik highlight aracı.
+**ClipForge** – Oyun anlarını kaçırmaman için hafif ve akıllı, ekran kayıt ve otomatik highlight aracı.
 
 ![ClipForge Logo](https://cdn.discordapp.com/attachments/1080496668790755418/1467157469083205713/128x128.png?ex=697f5c5f&is=697e0adf&hm=c3e20d24e00d8c2511224c440c6f6567ebd0c7ecedf7616245c6cf78f5aea3d9&)
 
@@ -25,10 +25,11 @@
 - Hızlı Klip
 - Manuel kayıt modu  
 - Oyun içi ses + mikrofon yakalama  
-- Çözünürlük seçenekleri: Auto / 1080p / 720p / 480p  
-- Favori klipler ve arama  
-- Sistem tepsisinde arka planda çalışma  
+- Çözünürlük seçenekleri: Auto / 1080p / 720p / 480p
+- Favori klipler ve arama 
 - Glassmorphism arayüz + akıcı animasyonlar
+- Discord hesabını bağlayarak klipleri anında paylaşma
+- Telefon uygulaması ile kliplerini telefonda izleme
 
 ### İndir
 
