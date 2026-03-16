@@ -40,9 +40,9 @@ En son sürümü buradan indir:
 
 ### Ekran Görüntüleri
 
-![ss1](https://cdn.discordapp.com/attachments/1080496668790755418/1467156056428773429/clipforge1.png?ex=697f5b0e&is=697e098e&hm=b6c0246f361e07c78bf392f28dba66ed09294596c9bf986022bd55020627a65d&)
-![ss2](https://cdn.discordapp.com/attachments/1080496668790755418/1467156057137746156/clipforge2.png?ex=697f5b0e&is=697e098e&hm=4ef09e804810b2ada709908d01bb5924ba96d2324cded4afbeadbe9d2ddc5526&)
-![ss3](https://cdn.discordapp.com/attachments/1080496668790755418/1467156057796116520/clipforge3.png?ex=697f5b0e&is=697e098e&hm=b81bf122fa252375645a1eaacc8ef26c1d7451e05e6c8e348d21b2d3aabccf1c&)
+![ss1](https://media.discordapp.net/attachments/1080496668790755418/1467156056428773429/clipforge1.png?ex=69b95d0e&is=69b80b8e&hm=665054f0ca0cfa0fae28afd9dbcf322d0ad7d659d92902b43190c78457eae536&=&format=webp&quality=lossless&width=1590&height=856)
+![ss2](https://media.discordapp.net/attachments/1080496668790755418/1467156057137746156/clipforge2.png?ex=69b95d0e&is=69b80b8e&hm=25f509f015c6ac106a673aac389ce7ad0f37e41370b0e12433e9c306aa9505b1&=&format=webp&quality=lossless&width=1593&height=856)
+![ss3](https://media.discordapp.net/attachments/1080496668790755418/1467156057796116520/clipforge3.png?ex=69b95d0e&is=69b80b8e&hm=4f48af20856bbcfd1aa389bbc6d13990f2abcee137b97ca51e2173f5bee23e37&=&format=webp&quality=lossless&width=1593&height=856)
 
 ### Desteklenenler
 
