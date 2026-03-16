@@ -53,7 +53,7 @@ En son sürümü buradan indir:
 ### Geri Bildirim & Destek
 
 Sorun yaşarsan veya özellik istersen:  
-→ Mail: zenoxydevelopment@gmail.com
+→ Mail: info@zenoxdev.shop
 → Discord: https://discord.gg/75N6ACzjsH
 
 ClipForge ile hiçbir anı kaçırma. 🔥
