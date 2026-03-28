@@ -16,7 +16,7 @@
 *   **Ultra Hafif:** Sistem performansınızı ve oyun FPS'nizi etkilemeyecek şekilde özel olarak tasarlanmıştır.
 *   **Akıllı Sıkıştırma (H.265):** %70-90 oranında daha küçük video boyutları sunarak depolama alanından tasarruf sağlar.
 *   **Gecikmesiz Kalite:** Sistem sesi ve mikrofon ayrı ayrı veya birleşik olarak yüksek kalitede, sıfıra yakın senkronizasyon kaymasıyla kaydedilir.
-*   **Tamamen Yerel:** Tüm verileriniz tamamen güvenli bir şekilde kendi diskinizde kalır; buluta zorunlu veya gizli veri fırlatmaz.
+*   **Tamamen Yerel:** Tüm verileriniz tamamen güvenli bir şekilde kendi diskinizde kalır; buluta zorunlu değildir.
 
 ## 🎯 Temel Özellikler
 
@@ -24,8 +24,7 @@
 *   **Manuel Kayıt Yöneticisi:** Modern arayüz üzerinden esnek başlat/durdur fonksiyonu.
 *   **Gelişmiş Klasör/Klip Yönetimi:** Dahili medya oynatıcısı ve kliplere yıldız (favori) ekleyebilme özelliği.
 *   **Dinamik Çözünürlük Kontrolü:** Auto, 1080p, 720p, 480p ve kişiselleştirilmiş bitrate destekleri.
-*   **Discord Tam Entegrasyon (Rich Presence):** Hesabınızı bağlayarak ne izlediğinizi veya anlık uygulamanızı Discord profilinize yansıtma.
-*   **Premium Tasarım:** Pürüzsüz animasyonlarla hazırlanmış modern, koyu tema ve glassmorphism odaklı arayüz (Bento tasarımı).
+*   **Discord Tam Entegrasyon (Rich Presence):** Hesabınızı bağlayarak kliplerinizi anında paylaşabilir, yüksek dosya boyutu ise ClipForge youtube kanalına gizli olarak paylaşabilirsiniz.
 
 ## 💻 Geliştiriciler İçin (Tech Stack)
 
@@ -46,7 +45,7 @@ ClipForge, maksimum performans, düşük bellek kullanımı ve modern bir arayü
 ## 📥 Sistem Gereksinimleri ve İndirme
 
 - Windows 10 ve Windows 11 platformlarında sorunsuz çalışır.
-- Tüm tam ekran ve çerçevesiz oyunlar tarafından desteklenmektedir.
+- Uygulama yaklaşık 25mb boyutunda olup, performansda sizi ve oyununuzu etkilemeden kayıt almanızı sağlar.
 
 → [Güncel ClipForge Sürümünü İndir (Release)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
 
