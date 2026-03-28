@@ -1,61 +1,62 @@
-# ClipForge
+<div align="center">
+  <img src="clipforge.png" alt="ClipForge Logo" width="128" />
+  <h1>ClipForge</h1>
+  <p><strong>Oyun anlarını kaçırmaman için hafif ve akıllı ekran kayıt aracı.</strong></p>
+  
+  [![Latest Release](https://img.shields.io/github/v/release/ZenoxyDev/ClipForge-Releases?color=brightgreen&logo=github)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
+</div>
 
-**ClipForge** – Oyun anlarını kaçırmaman için hafif ve akıllı, ekran kayıt ve otomatik highlight aracı.
+<hr>
 
-![ClipForge Logo](https://cdn.discordapp.com/attachments/1080496668790755418/1467157469083205713/128x128.png?ex=69b95e5f&is=69b80cdf&hm=52823f31ee3f112f1eec5961d12348bb2ce4f3034094a9337b9dfd6940ec3e0c&)
+## 🚀 Nedir ve Neden ClipForge?
 
-### Neden ClipForge?
+**ClipForge**, arka planda minimum kaynak tüketimiyle (~200-300 MB RAM) çalışarak oyun içi veya masaüstü aktivitelerinizi kesintisiz kaydeder. Bir 'clutch' anında belirlediğiniz klavye kısayoluna (hotkey) basarak, geriye dönük son 5-60 saniyeyi yüksek kalitede anında bilgisayarınıza kaydetmenizi sağlar.
 
-- Arka planda **sürekli kayıt** alır, hotkey'e basınca son 5-60 saniyeyi anında kaydeder (Medal.tv gibi).
-- Ultra düşük kaynak tüketimi (~200-300 MB RAM).
-- Otomatik sıkıştırma: Videolar %70-90 daha küçük (H.265).
-- Sistem sesi + mikrofon yüksek kalitede, sıfır kayma.
-- Modern galeri: Thumbnail'ler, yıldızlama (favoriler), basit kırpma.
-- Tamamen yerel – hiçbir şey buluta gitmez.
+*   **Sürekli Kayıt:** Medal.tv, ShadowPlay veya OBS Replay Buffer mantığıyla çalışır.
+*   **Ultra Hafif:** Sistem performansınızı ve oyun FPS'nizi etkilemeyecek şekilde özel olarak tasarlanmıştır.
+*   **Akıllı Sıkıştırma (H.265):** %70-90 oranında daha küçük video boyutları sunarak depolama alanından tasarruf sağlar.
+*   **Gecikmesiz Kalite:** Sistem sesi ve mikrofon ayrı ayrı veya birleşik olarak yüksek kalitede, sıfıra yakın senkronizasyon kaymasıyla kaydedilir.
+*   **Tamamen Yerel:** Tüm verileriniz tamamen güvenli bir şekilde kendi diskinizde kalır; buluta zorunlu veya gizli veri fırlatmaz.
 
-### Kimler İçin?
+## 🎯 Temel Özellikler
 
-- Valorant clutch'larını, LoL pentalarını, CS2 ace'lerini kaçırmayan oyuncular  
-- Eğitim, tutorial, toplantı kaydedenler  
-- Düşük güçlü laptop kullananlar  
-- İçerik üreticileri (TikTok, YouTube Shorts, Discord paylaşımı)
+*   **Hızlı Klip (Instant Replay):** Ayarlanabilir uzunlukta geriye dönük anında video yakalama.
+*   **Manuel Kayıt Yöneticisi:** Modern arayüz üzerinden esnek başlat/durdur fonksiyonu.
+*   **Gelişmiş Klasör/Klip Yönetimi:** Dahili medya oynatıcısı ve kliplere yıldız (favori) ekleyebilme özelliği.
+*   **Dinamik Çözünürlük Kontrolü:** Auto, 1080p, 720p, 480p ve kişiselleştirilmiş bitrate destekleri.
+*   **Discord Tam Entegrasyon (Rich Presence):** Hesabınızı bağlayarak ne izlediğinizi veya anlık uygulamanızı Discord profilinize yansıtma.
+*   **Premium Tasarım:** Pürüzsüz animasyonlarla hazırlanmış modern, koyu tema ve glassmorphism odaklı arayüz (Bento tasarımı).
 
-### Özellikler
+## 💻 Geliştiriciler İçin (Tech Stack)
 
-- Hızlı Klip
-- Manuel kayıt modu  
-- Oyun içi ses + mikrofon yakalama  
-- Çözünürlük seçenekleri: Auto / 1080p / 720p / 480p
-- Favori klipler ve arama 
-- Glassmorphism arayüz + akıcı animasyonlar
-- Discord hesabını bağlayarak klipleri anında paylaşma
-- Telefon uygulaması ile kliplerini telefonda izleme
+ClipForge, maksimum performans, düşük bellek kullanımı ve modern bir arayüz sunabilmek adına aşağıdaki güncel teknolojilerle derlenmiştir:
+-   **Tauri v2 (Rust):** Çekirdek uygulama mimarisi, işletim sistemi bazlı kısayol dinleyiciler ve ultra hafif backend yönetimi.
+-   **React 19 & Vite:** Oldukça hızlı çalışan, reaktif web tabanlı modern kullanıcı arayüzü motoru (frontend).
+-   **Tailwind CSS v4 & Framer Motion:** Karmaşık CSS kodlarına ihtiyaç duymaksızın estetik glassmorphism UI stilleri ve mikro-animasyon çözümleri.
+-   **TypeScript:** Statik tür güvenliği ile sıfır hatalı, bakımı kolay kod mimarisi.
 
-### İndir
+## 📸 Ekran Görüntüleri
 
-[![Latest Release](https://img.shields.io/github/v/release/ZenoxyDev/ClipForge-Releases?color=brightgreen&logo=github)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
+![Dashboard Screenshot](clipforge1.png)
 
-En son sürümü buradan indir:  
-→ [ClipForge-Releases/latest](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
+![Settings Screenshot](clipforge2.png)
 
-### Ekran Görüntüleri
+![Gallery Screenshot](clipforge3.png)
 
-![ss1](https://media.discordapp.net/attachments/1080496668790755418/1467156056428773429/clipforge1.png?ex=69b95d0e&is=69b80b8e&hm=665054f0ca0cfa0fae28afd9dbcf322d0ad7d659d92902b43190c78457eae536&=&format=webp&quality=lossless&width=1590&height=856)
-![ss2](https://media.discordapp.net/attachments/1080496668790755418/1467156057137746156/clipforge2.png?ex=69b95d0e&is=69b80b8e&hm=25f509f015c6ac106a673aac389ce7ad0f37e41370b0e12433e9c306aa9505b1&=&format=webp&quality=lossless&width=1593&height=856)
-![ss3](https://media.discordapp.net/attachments/1080496668790755418/1467156057796116520/clipforge3.png?ex=69b95d0e&is=69b80b8e&hm=4f48af20856bbcfd1aa389bbc6d13990f2abcee137b97ca51e2173f5bee23e37&=&format=webp&quality=lossless&width=1593&height=856)
+## 📥 Sistem Gereksinimleri ve İndirme
 
-### Desteklenenler
+- Windows 10 ve Windows 11 platformlarında sorunsuz çalışır.
+- Tüm tam ekran ve çerçevesiz oyunlar tarafından desteklenmektedir.
 
-- Windows 10/11  
-- Tüm oyunlar (LoL özel desteği var, diğerleri için OCR planlanıyor)  
-- OBS/ShadowPlay benzeri hafif alternatif
+→ [Güncel ClipForge Sürümünü İndir (Release)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
 
-### Geri Bildirim & Destek
+## 📞 Geri Bildirim ve Destek
 
-Sorun yaşarsan veya özellik istersen:  
-→ Mail: info@zenoxdev.shop
-→ Discord: https://discord.gg/75N6ACzjsH
+Sorun yaşaman durumunda uygulamanın gelişimine katkıda bulunmak veya bir problem bildirmek istersen aşağıdaki kanallardan ulaşabilirsin:
+-   **Email:** info@zenoxdev.shop
+-   **Discord Topluluğu:** [Katılmak İçin Tıkla](https://discord.gg/75N6ACzjsH)
 
-ClipForge ile hiçbir anı kaçırma. 🔥
-
-⭐ Beğendiysen yıldız atmayı unutma!
+---
+<div align="center">
+  <sub>ClipForge ile hiçbir anı kaçırmayın. 🔥 | Projeyi faydalı bulduysan repo'ya bir ⭐ bırakmayı unutma!</sub>
+</div>
