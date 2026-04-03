@@ -3,7 +3,7 @@
   <h1>ClipForge</h1>
   <p><strong>Oyun anlarını kaçırmaman için hafif ve akıllı ekran kayıt aracı.</strong></p>
   
-  [![Latest Release](https://img.shields.io/github/v/release/ZenoxyDev/ClipForge-Releases?color=brightgreen&logo=github)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
+  [![Latest Release](https://img.shields.io/github/v/release/ZenoxyDev/ClipForge?color=brightgreen&logo=github)](https://github.com/ZenoxyDev/ClipForge/releases/latest)
 </div>
 
 <hr>
@@ -47,7 +47,7 @@ ClipForge, maksimum performans, düşük bellek kullanımı ve modern bir arayü
 - Windows 10 ve Windows 11 platformlarında sorunsuz çalışır.
 - Uygulama yaklaşık 25mb boyutunda olup, performansda sizi ve oyununuzu etkilemeden kayıt almanızı sağlar.
 
-→ [Güncel ClipForge Sürümünü İndir (Release)](https://github.com/ZenoxyDev/ClipForge-Releases/releases/latest)
+→ [Güncel ClipForge Sürümünü İndir (Release)](https://github.com/ZenoxyDev/ClipForge/releases/latest)
 
 ## 📞 Geri Bildirim ve Destek
 
